@@ -1,0 +1,50 @@
+*** O que é Logica? ***
+
+coerencia de raciocinio, de ideias
+
+sequencia coerente, regular e necessaria de acontecimentos, coisas.
+
+*** Logica de programação ***
+
+Lógica de programação significa apenas contextualizar a lógica na programação de computadores, buscando 
+
+a melhor sequencia de ações para solucionar um problema.
+
+*** Metacognição ***
+
+"Pensar como você pensa"
+
+*** Abstração ***
+
+abstração é a habilidade de concentrar nos aspctos essenciais de um contexto qualquer, iginorando caracteristicas
+
+menos importantes ou adicionais.
+
+obs:. quando pegamos "o todo" e dividimos em partes
+
+*** Algortimo ***
+
+" é uma sequencia de passos para resolver um problema "
+
+Ex de algoritmo
+
+inicio-Dia
+Acordei
+Levantei da cama
+troquei de roupa
+escovei os dentes
+fui a padaria
+tomei cafe
+escovei os dentes
+fui ao trabalho
+...
+fim-dia
+
+*** O que é um Pseudocódigo ***
+
+Pseudocódigo é uma forma generica de escrever algoritmo, utilizando uma linguagem simples( nativa, ou seja, em 
+
+português a quem o escreve, de forma a ser entendida por qualquer pessoa)
+
+obs:. o pseudocódigo é utilizado apenas para aprender a programar  
+

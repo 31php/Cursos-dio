@@ -1,0 +1,93 @@
+*** Controle de versão ***
+
+controle de versão são formas de gerenciar o ciclo de evoloçaõ do cód. fonte.
+
+Um sistema de controle de versão na função prática da ciência da computação e da engenharia de software, 
+
+é um software que tem a finalidade de gerenciar diferentes versões no desnvolvimento de um documento qualquer.
+
+Esses sistemas são comumentes utilizados no dsenvolvimento de software para controlear as diferentes versões,
+
+histórico e desenvolvimento  - dos códigos fontes e tambem da documentação.
+
+obs:. sem o controle de versão, fica mais difícil saber quando e como o arquivo foi alterado.
+
+*** Ferramentas de controle de versão ***
+
+-> subversion / svn
+-> Mercurial
+-> cvs
+-> git
+
+são ferramentas que auxiliam a evolução do desenvolvimento de software.
+
+*** Git ***
+
+é um sistema de controle de versão distribuído , é um sistema de gerenciamentode cód fonte, com enfase em 
+
+velocidade. O git foi incialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel 
+
+linux, mas foi adotado por muitos outros projetos.
+
+*** Principais comandos git ***
+
+git init -> Serve para iniciar um repositório dentro da estrutura
+
+git add ou git add << filename >> Serve para adicionar arquivos para que o git possa rastreá-los. O git add
+
+adiciona todos os arquivos para que possa ser comitado e o git  add << filename >> serve para adicionar os 
+
+arquivos para serem comitados, ou seja, salvar as alterações em formato de commit.
+
+git commit -m " mensagem de commit " -> é o jeito de salvar as alterações e torna-los ratreavéis
+
+obs:. o "-m" é o padrão utilizado para especificar a mensagem de commit utilizada, o ideal é ter uma mensagem 
+
+de commit conivente com o que está sendo feito ( mensagem com o que foi feito no cód )
+
+git push -> É uma forma de publicar as alterações, os commits em um servidor remoto.
+
+obs:. Reposiório local é o que foi criadona máquina através do git init, repositório remoto é o que está no 
+
+servidor.
+
+git pull -> atualiza o repositório local com as alterações feita no repositório remoto.
+    
+git clone -> Serve para obter uma estrutura de um repositório remoto, ou seja, ter no repositório local 
+
+a mesma base do respositório remoto.
+
+git merge -> serve para juntar as branches que estão sendo alteradas. também é um termo utilizado para a 
+
+solução de conflitos, ou seja, quando não se sabe qual ou o que fez a alteração no arquivo.
+
+git status -> Serve para indicar informações referentes ao estado atual do projeto,
+
+se tem arquivo adicionado ou não, se foi commitado ou não.
+
+git log -> serve para mostrar o histórico de alterações que o repositório vem sofrendo ao longo do tempo.
+
+git log --oneline -> agrupa o histórico de alterações 
+
+git branch (ramo) <<branchname>> Serve para criar uma nova branch ( ramo )
+
+git checkout -> Serve para se locomover entre as branches (ramos)
+
+ex:. git checkout nomedabranch
+
+git checkout -b -> Seve para criar uma nova branch     
+
+*** Github ***
+
+-> github é um site onde podemos compartilhar projetos ( códigos )
+
+-> onde consigo subir repositórios e interagir com comandos git
+
+-> consigo expor códigos fontes que são rastreaveis através do git
+
+-> onde compartilho meu repositório local e consigo interagir com outros desenvolvedores, com isso estudo o 
+
+código de outros desnvolvedores.
+
+-> o github tambem pode ser uma rede de compartilhamento de conhecimento.
+
