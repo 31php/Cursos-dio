@@ -48,3 +48,8 @@ português a quem o escreve, de forma a ser entendida por qualquer pessoa)
 
 obs:. o pseudocódigo é utilizado apenas para aprender a programar  
 
+*** Fluxograma ***
+
+É uma ferramenta utilizada para representar graficamente o algoritimo, isto é, a sequencia lógica e coerente
+
+do fluxo de dados. 
